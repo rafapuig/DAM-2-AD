@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/U3_P2_ConectarDerby/U3_P2_ConectarDerby.iml" filepath="$PROJECT_DIR$/U3_P2_ConectarDerby/U3_P2_ConectarDerby.iml" />
       <module fileurl="file://$PROJECT_DIR$/U3_P3_ConectarHSQLDB/U3_P3_ConectarHSQLDB.iml" filepath="$PROJECT_DIR$/U3_P3_ConectarHSQLDB/U3_P3_ConectarHSQLDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/U3_P4_Metadatos/U3_P4_Metadatos.iml" filepath="$PROJECT_DIR$/U3_P4_Metadatos/U3_P4_Metadatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U3-P5-1-Statement/U3_P5_Statement.iml" filepath="$PROJECT_DIR$/U3-P5-1-Statement/U3_P5_Statement.iml" />
     </modules>
   </component>
 </project>
