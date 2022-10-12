@@ -11,10 +11,10 @@
       <library name="xerial.sqlite.jdbc" type="repository">
         <properties maven-id="org.xerial:sqlite-jdbc:3.39.3.0" />
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../DAM2-AD/lib/sqlite-jdbc-3.39.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/sqlite-jdbc-3.39.3.0.jar!/" />
         </CLASSES>
         <JAVADOC>
-          <root url="jar://$MODULE_DIR$/../DAM2-AD/lib/sqlite-jdbc-3.39.3.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/sqlite-jdbc-3.39.3.0-javadoc.jar!/" />
         </JAVADOC>
         <SOURCES />
       </library>
