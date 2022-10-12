@@ -1,15 +1,16 @@
 import java.sql.*;
-public class U3_P5_2_Statement {
 
+public class ConectarSQLite {
     public static void main(String... args){
         try {
+            //Class.forName("org.sqlite.JDBC");
             Connection conn = DriverManager.getConnection("jdbc:sqlite:C:/AD/sqlite/ejemplo.db");
-            Statement stmt = conn.createStatement();
-            stmt.executeUpdate("ALTER TABLE Profesores ADD COLUMN salario INT");
+            System.out.println(conn.isClosed());
             conn.close();
-
-        } catch (SQLException e) {
+        } catch (Exception e) {
             System.out.println(e.getMessage());
+        } finally {
+            System.out.println("Fin del programa");
         }
     }
 }

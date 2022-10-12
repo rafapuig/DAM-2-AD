@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/U3-P5-2-Statement/U3-P5-2-Statement.iml" filepath="$PROJECT_DIR$/U3-P5-2-Statement/U3-P5-2-Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/U3-P5-3-Statement/U3-P5-3-Statement.iml" filepath="$PROJECT_DIR$/U3-P5-3-Statement/U3-P5-3-Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U3_P1_ConectarSQLite/U3_P1_ConectarSQLite.iml" filepath="$PROJECT_DIR$/U3_P1_ConectarSQLite/U3_P1_ConectarSQLite.iml" />
     </modules>
   </component>
 </project>
