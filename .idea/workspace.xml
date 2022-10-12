@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1bc867-0e2d-47af-86c2-133d9cb3adeb" name="Changes" comment="bbb">
-      <change afterPath="$PROJECT_DIR$/U3-P5-2-Statement/U3-P5-2-Statement.iml" afterDir="false" />
-    </list>
+    <list default="true" id="da1bc867-0e2d-47af-86c2-133d9cb3adeb" name="Changes" comment="bbb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +55,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665597304647</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ccc">
+      <created>1665597632425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665597632425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ccc">
+      <created>1665597679337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665597679337</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bbb">
+      <created>1665597880011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665597880011</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,6 +91,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="ccc" />
     <MESSAGE value="bbb" />
     <option name="LAST_COMMIT_MESSAGE" value="bbb" />
   </component>
